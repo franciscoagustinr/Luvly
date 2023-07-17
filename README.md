@@ -1,5 +1,7 @@
-<img src='/luvly.png'/>
 # Luvly
+
+<img src='/luvly.png'/>
+
 
 Landingpage presentation for Luvly, the eco car 🌱 
 <br/>
